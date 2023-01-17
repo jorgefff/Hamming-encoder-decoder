@@ -1,6 +1,7 @@
 # Hamming-encoder-decoder
 ## About
 Projecto da aula de Arquitectura de Computadores Avançada
+
 Project for the Advanced Computer Architecture lab class
 
 ## Specs
